@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Vero</h1>
-<h3 align="center">Me defino amante de la tecnologia y los animales, y creo que ella puede mejorar nuestras vidas.</h3>
+<h1 align="center">Hola 👋, soy Vero &#129302;</h1>
+<h3 align="center">Me defino amante de la &#129505 tecnologia y los animales &#129454 , y creo que ella puede mejorar nuestras vidas.</h3>
+<h4>En el transcurso de aprendisaje tuve la oportunidad de involucrarme en proyectos web, mobile, de gestion #desarrollo web en Henry, #app mobile android tesis de grado, #c#.net para sistema de gestion. Disfruto mucho la elaboracion de la logica &#129327, tambien el diseño aunque en menor medida</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
